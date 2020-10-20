@@ -1,0 +1,13 @@
+{
+    "eslint.options": {
+    
+    },
+    "eslint.validate": [
+    
+    ],
+    "eslint.workingDirectories": [
+    
+        "back",
+        "front"
+    ]
+}
